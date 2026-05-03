@@ -1,5 +1,3 @@
-# 文件二：第一轮英文技术背景表达框架
-
 ## Week 2 Deliverable 2
 
 ## First-round Technical Background Expression Framework
@@ -95,8 +93,6 @@ From a technical perspective, I spend a lot of time working with **[tool / platf
 The main value of this work is to help the team improve **[efficiency / stability / delivery speed / reliability]** and reduce **[manual work / deployment risk / response time / operational issues]**.
 
 ---
-
-## Direction-specific Prompts
 
 ### For DevOps / SRE
 
