@@ -1,5 +1,3 @@
-# 文件一：英文自我介绍结构模板（Personalised）
-
 ## Week 2 Deliverable 1
 
 ## Personalised Self-introduction Structure Template
