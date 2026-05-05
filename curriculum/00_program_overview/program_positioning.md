@@ -1,6 +1,0 @@
-# Program Positioning（课程定位）
-
-## 目标
-- 面向：技术扎实但英文表达受限的候选人
-- 场景：Web3 / AI / SRE / DevOps / 远程外企技术岗位
-- 周期：8周
