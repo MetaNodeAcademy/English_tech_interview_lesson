@@ -1,16 +1,37 @@
-# Week 6 全真模拟面试脚本
+# Week 6｜全真模拟面试反馈表（双师版）
 
-## Opening
-- Brief self-introduction
+---
 
-## Technical Round
-- 3-5 role-specific technical questions
+## 使用说明
 
-## Behavioral Round
-- 2 STAR questions
+延续前一周的训练口径：**不追求“背得像”，而追求“答得稳、讲得清、能落地”**。
 
-## Closing
-- Candidate questions
+请两位老师在模拟结束后，围绕同一轮表现分别记录反馈，方便学员明确下一步优化方向。
 
-## Feedback
-- to be provided by the tutors
+---
+
+| 模块 | 观察维度 | 技术老师反馈（Zood） | 英语老师反馈（Leon） | 学员下一步动作 |
+|---|---|---|---|---|
+| Opening 自我介绍 | 结构是否清晰、是否贴合岗位、首句是否有记忆点 |  |  |  |
+| Technical Q1 | 问题理解是否准确、回答是否有技术细节与结论 |  |  |  |
+| Technical Q2 | 是否体现决策依据与 trade-off、是否可追问 |  |  |  |
+| Technical Q3 | 是否有项目 ownership、指标表达是否可信 |  |  |  |
+| Technical Q4（可选） | 难点处理是否完整（问题-动作-结果） |  |  |  |
+| Technical Q5（可选） | 复杂问题下的表达稳定性与逻辑连贯性 |  |  |  |
+| Behavioral STAR 1 | 情境是否具体、行动是否突出“我做了什么” |  |  |  |
+| Behavioral STAR 2 | 复盘是否有反思、是否体现成长与迁移能力 |  |  |  |
+| Closing 反问环节 | 反问质量、岗位匹配度、沟通感受 |  |  |  |
+| 综合评价 | 本轮最强项（保留） |  |  |  |
+| 综合评价 | 本轮关键短板（优先修） |  |  |  |
+| 综合评价 | 下次模拟前必须完成的 1-3 项任务 |  |  |  |
+
+---
+
+## 结果记录（建议）
+
+| 项目 | 内容 |
+|---|---|
+| 模拟日期 |  |
+| 目标岗位 |  |
+| 本轮总体评级 |  |
+| 下轮重点 |  |
