@@ -109,13 +109,3 @@ At this stage, I’m looking for opportunities where I can further grow in **[ta
 * My current career goal:
 * Why this role interests me:
 
----
-
-## Reminder
-
-这一阶段请优先做到：
-
-* 不要信息太散
-* 不要一上来讲太细的项目
-* 不要堆太多技术名词
-* 先把“你是谁、你做什么、你擅长什么、你为什么来”讲清楚
