@@ -71,37 +71,51 @@
 #### 07. IOTA 概念面试题英文讲解
 - **时长**：09分21秒
 - **状态**：✅
-- **课程链接**：`[待补充]`
+- **课程链接**：https://appibxs98ig9955.h5.xiaoeknow.com/p/course/video/v_69e1f673e4b0694c5bb1b379?product_id=course_36PqayvXTU48GJPgEJonVAde3pf&course_id=course_36PqayvXTU48GJPgEJonVAde3pf&sub_course_id=
 
 #### 08. GoLang 项目 K8S 部署面试题英文讲解
 - **时长**：17分15秒
 - **状态**：✅
-- **课程链接**：`[待补充]`
+- **课程链接**：https://appibxs98ig9955.h5.xiaoeknow.com/p/course/video/v_69e1f674e4b0694c34fb3a48?product_id=course_36PqayvXTU48GJPgEJonVAde3pf&course_id=course_36PqayvXTU48GJPgEJonVAde3pf&sub_course_id=
 
 #### 09. GoLang 相较 JAVA 的优势
 - **时长**：19分21秒
 - **状态**：✅
-- **课程链接**：`[待补充]`
+- **课程链接**：https://appibxs98ig9955.h5.xiaoeknow.com/p/course/video/v_69e1f674e4b0694c5bb1b37b?product_id=course_36PqayvXTU48GJPgEJonVAde3pf&course_id=course_36PqayvXTU48GJPgEJonVAde3pf&sub_course_id=
 
 #### 10. 海量 goroutine 带来的影响
 - **时长**：16分51秒
 - **状态**：✅
-- **课程链接**：`[待补充]`
+- **课程链接**：https://appibxs98ig9955.h5.xiaoeknow.com/p/course/video/v_69e1f675e4b0694c34fb3a4a?product_id=course_36PqayvXTU48GJPgEJonVAde3pf&course_id=course_36PqayvXTU48GJPgEJonVAde3pf&sub_course_id=
 
 #### 11. 内存泄漏的潜在场景 Part1
 - **时长**：10分15秒
 - **状态**：✅
-- **课程链接**：`[待补充]`
+- **课程链接**：https://appibxs98ig9955.h5.xiaoeknow.com/p/course/video/v_69e1f675e4b0694c5bb1b37f?product_id=course_36PqayvXTU48GJPgEJonVAde3pf&course_id=course_36PqayvXTU48GJPgEJonVAde3pf&sub_course_id=
 
 #### 12. 内存泄漏的潜在场景 Part2
 - **时长**：09分49秒
 - **状态**：✅
-- **课程链接**：`[待补充]`
+- **课程链接**：https://appibxs98ig9955.h5.xiaoeknow.com/p/course/video/v_69e1f676e4b0694c34fb3a4c?product_id=course_36PqayvXTU48GJPgEJonVAde3pf&course_id=course_36PqayvXTU48GJPgEJonVAde3pf&sub_course_id=
 
 #### 13. Mutex 和 Deadlock 防范
 - **时长**：15分14秒
 - **状态**：✅
-- **课程链接**：`[待补充]`
+- **课程链接**：https://appibxs98ig9955.h5.xiaoeknow.com/p/course/video/v_69e1f676e4b0694c34fb3a4e?product_id=course_36PqayvXTU48GJPgEJonVAde3pf&course_id=course_36PqayvXTU48GJPgEJonVAde3pf&sub_course_id=
+
+
+
+#### Web3 方向课程信息（补充）
+
+| 标题 | 集合 | 录制人 | 课件准备人 | 审核人 | 内部视频状态 |
+|---|---|---|---|---|---|
+| what is iota？什么是 iota？ | golang面经 | Leon | - | - | 已修改 |
+| 你如何在 K8s 环境中部署 Go 微服务程序（网关 + 其他业务服务）？ | golang面经 | Leon | - | - | 已修改 |
+| Go 语言对比 Java 有什么优势？ | golang面经 | Leon | Layer | Asher | 已发布 |
+| goroutine 创建过多会有什么问题？调度会怎么样？GC 会怎么样？ | golang面经 | Leon | Layer | Asher | 已发布 |
+| 除了 goroutine 泄露，还有什么场景会导致 Go 程序严重内存泄漏？ | golang面经 | Leon | Layer | Asher | 已发布 |
+| 开发中有没有遇到 Go 的互斥锁？互斥锁能否被重入？如果重入会怎么样？编译阶段会不会发现？ | golang面经 | Leon | Layer | Asher | 已发布 |
+| 如果让你实现 Go 线程安全的队列，你会怎么实现？提高性能有什么方案？ | golang面经 | Leon | Layer | Asher | 待发布 |
 
 ### 方向课（AI 方向，0 小节）
 - **状态**：📝
