@@ -62,8 +62,8 @@
 
 #### 01. 面试前的准备——英文 JD 与简历的对齐
 - **教学内容**：1) 提取英文 JD 关键信息；2) Cover Letter 作用与写法；3) 按 JD 做简历对齐；课后作业：基于目标岗位完成一版 Cover Letter
-- **文档资料地址**：`https://github.com/MetaNodeAcademy/English_tech_interview_lesson/blob/main/curriculum/samples/%E8%AF%BE%E7%A8%8B%E4%B8%80%E8%AF%BE%E4%BB%B6.pdf`
-- **剪辑之后的视频地址**：`https://appibxs98ig9955.h5.xiaoeknow.com/p/course/video/v_69ef1c6ee4b0694c5bb889c5?product_id=course_36PqayvXTU48GJPgEJonVAde3pf&course_id=course_36PqayvXTU48GJPgEJonVAde3pf&sub_course_id=`
+- **文档资料地址**： [课程一课件](https://github.com/MetaNodeAcademy/English_tech_interview_lesson/blob/main/curriculum/samples/%E8%AF%BE%E7%A8%8B%E4%B8%80%E8%AF%BE%E4%BB%B6.pdf)
+- **剪辑之后的视频地址**：[基础课程一](https://appibxs98ig9955.h5.xiaoeknow.com/p/course/video/v_69ef1c6ee4b0694c5bb889c5?product_id=course_36PqayvXTU48GJPgEJonVAde3pf&course_id=course_36PqayvXTU48GJPgEJonVAde3pf&sub_course_id=)
 - **状态**：✅
 
 #### 02. 英文自我介绍
